@@ -1,0 +1,17 @@
+options:
+  auto-update: true
+  debug: false
+
+commands:
+  restore:
+    - restore
+    - rs
+  restore-all:
+    - restoreall
+    - rsall
+  set-storage-amount:
+    - setamount
+    - sa
+  set-content:
+    - setcontent
+    - sc
